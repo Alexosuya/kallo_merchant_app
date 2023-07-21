@@ -1,0 +1,214 @@
+{
+"language": "English",
+"@language":{
+"description": "The current language"
+},
+"home": "Home",
+"@home":{
+"description":"Home of app"
+},
+"search": "Search",
+"@search":{
+"description":"Search screen"
+},
+"profile": "Profile",
+"@profile":{
+"description": "Profile screen"
+},
+"welcome": "Welcome",
+"@welcome":{
+"description": "Welcoming text"
+},
+"getStarted": "Get Started",
+"@getStarted":{
+"description": "Get started button"
+},
+"shopsNearMe": "Shops Near Me",
+"@shopsNearMe":{
+"description": "Shops near me"
+},
+"onlineShops": "Online shops",
+"@onlineShops":{
+"description": "Online shops"
+},
+"tapToScanItem": "Tap to scan item",
+"@tapToScanItem":{
+"description": "Scan button"
+},
+"searchForProducts": "Search for products",
+"@searchForProducts":{
+"description": "Search products"
+},
+"noProductsAvailable": "Oops...we didn't find any products",
+"@noProductsAvailable":{
+"description": "message"
+},
+"searchItem": "Search item",
+"@searchItem":{
+"description": "Search item"
+},
+  "getStartedOne": "Get your products in front of thousands of local customers",
+  "getStartedTwo": "Market on Google and Facebook",
+  "getStartedThree": "Generate marketing content on social media at the click of a button",
+
+  "lastViewed": "Last Viewed",
+  "@LastViewed": {
+    "description": "Last viewed"
+  },
+  "seeMore": "See More",
+  "@seeMore": {
+    "description": "Last viewed"
+  },
+  "selectCountry": "Select Country",
+  "@selectCountry": {
+    "description": "Select a country"
+  },
+  "nationalityDes": "Items and prices will be shown in your local currency",
+  "@nationalityDes": {
+    "description": "Nationality description"
+  },
+  "nationalityDesTwo": "You can change this anytime by going to Profile > Settings",
+  "@nationalityDesTwo": {
+    "description": "Nationality description two"
+  },
+  "pickWatchItems": "Pick watch items",
+  "@pickWatchItems": {
+    "description": "Pick items"
+  },
+  "contactAndFeedback": "Contact & Feedback",
+  "@contactAndFeedback": {
+    "description": "Contact and feedback"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings"
+  },
+  "region": "Region",
+  "@region": {
+    "description": "Region"
+  },
+  "loggedIn": "Logged in",
+  "@loggedIn": {
+    "description": "Logged in"
+  },
+  "somethingWentWrong": "Something went wrong",
+  "@somethingWentWrong": {
+    "description": "Error message"
+  },
+  "scanBarcode": "Search by Barcode",
+  "@scanBarcode": {
+    "description": "Scan"
+  },
+  "dataUnavailable": "No data available currently",
+  "@dataUnavailable": {
+    "description": "Data unavailable"
+  },
+  "processingData": "Processing data, please wait...",
+  "@processingData": {
+    "description": "Processing data"
+  },
+  "takePicture": "Take picture",
+  "@takePicture": {
+    "description": "Taking Picture"
+  },
+  "searchByPicture": "Search by Picture",
+  "@searchByPicture": {
+    "description": "Search by picture"
+  },
+  "barcodeInfo": "Scan a product's barcode to see prices",
+  "@barcodeInfo": {
+    "description": "Barcode info"
+  },
+  "pictureInfo": "Take a picture of a product to search",
+  "@pictureInfo": {
+    "description": "Picture info"
+  },
+  "letsGo": "Let's Go!",
+  "@letsGo": {
+    "description": "Let's go"
+  },
+  "position": "Position the product within this box",
+  "@position": {
+    "description": "Position the product within this box"
+  },
+  "startSearching": "Start searching",
+  "@startSearching": {
+    "description": "Start searching"
+  },
+  "recentSearches": "Recent searches",
+  "@recentSearches": {
+    "description": "Recent searches"
+  },
+  "searchSuggestions": "Search suggestions",
+  "@searchSuggestions": {
+    "description": "Search suggestions"
+  },
+  "pleaseWaitSearching": "Searching suggestions...",
+  "@pleaseWaitSearching": {
+    "description": "Wait"
+  },
+  "noSuggestions": "No suggestions available",
+  "@noSuggestions": {
+    "description": "No"
+  },
+  "signInWithGoogle": "Sign in with Google",
+  "@signInWithGoogle": {
+    "description": "Sign in"
+  },
+  "or": "or",
+  "@or": {
+    "description": "or"
+  },
+  "createAnAccount": "Create an account",
+  "alreadyHaveAnAccount": "Already have an account?",
+  "logIn": "Log in",
+  "signUp": "Sign up",
+  "enterYourEmail": "Enter your email",
+  "enterYourPassword": "Enter your password",
+  "male": "Male",
+  "female": "Female",
+  "noThanks": "No Thanks",
+  "kalloAccount": "Kallo Account",
+  "shoppingMadeEasier": "shopping made easier",
+  "successfullySignedIn": "You're successfully signed in",
+  "accountAlreadyExists": "Account already exists, log in instead",
+  "connectionIsDown": "Network connection error. Please check your network connectivity",
+  "successfullyLoggedIn": "You're successfully logged in",
+  "invalidEmailOrPassword": "invalid email or password",
+  "signOut": "Sign out",
+  "fieldMustNotBeEmpty": "field must not be empty",
+  "passwordMustBeEight": "Password must be at least 8 characters",
+  "passwordMustContainSpecial": "Password must contain a special character",
+  "passwordMustBeNumber": "Password must contain a number",
+  "selectGender": "Select Gender",
+  "loggedInAs": "logged in as",
+  "signingOut": "Signing Out",
+  "areYouSure": "Are you sure you want to sign out?",
+  "yes": "YES",
+  "no": "NO",
+  "category": "Category",
+  "mostRelevant": "Most Relevant",
+  "price": "Price",
+  "lowToHigh": "low to high",
+  "highToLow": "High to low",
+  "distance": "Distance",
+  "closestFirst": "Closest first",
+  "showResult": "Show Results",
+  "sort": "Sort",
+  "filter": "Filter",
+  "selectCategories": "Select Categories",
+  "categories": "Categories",
+  "searchSimilarImages": "search for images similar to this item?",
+  "productCategory": "Product Category",
+  "rateOurApp": "Rate our app",
+  "privacyPolicy": "Privacy policy",
+  "summitFeedback": "Summit feedback or ask for help",
+  "yourMessageToUs": "Your message to us",
+  "enterEmailOpt": "Enter email (optional)",
+  "send": "Send",
+  "topDiscounts": "Top Discounts",
+  "mostPopular": "Most Popular",
+  "areYouSureClear": "Are you sure you want to clear products?",
+  "carryOn": "Continue",
+  "doNotHaveAnAccount": "Don't have an account?"
+}
