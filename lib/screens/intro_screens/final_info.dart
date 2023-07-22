@@ -180,7 +180,22 @@ class _FinalInformationState extends State<FinalInformation> {
                     const SizedBox(
                       height: 40,
                     ),
-
+                    const Row(
+                      children: [
+                        Text('Your Password ',
+                          style: TextStyle(
+                              fontSize: 18,
+                              fontWeight: FontWeight.w700
+                          ),
+                        ),
+                        Text('*',
+                          style: TextStyle(
+                              color: Colors.red
+                          ),
+                        )
+                      ],
+                    ),
+                    const SizedBox(height: 10,),
                     TextFormField(
                       obscureText: _obscureText,
                       onChanged: (v){
@@ -226,7 +241,7 @@ class _FinalInformationState extends State<FinalInformation> {
                     const Row(
                       mainAxisAlignment: MainAxisAlignment.end,
                       children: [
-                        Text('1/2')
+                        Text('2/2')
                       ],
                     ),
                     Container(

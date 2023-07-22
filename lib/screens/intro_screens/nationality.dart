@@ -77,7 +77,6 @@ class _NationalityState extends State<Nationality> {
         body:  Center(
           child: Column(
             children: [
-              Text(countryValue??''),
                Text(AppLocalizations.of(context)!.selectCountry,
               style: const TextStyle(
                 fontWeight: FontWeight.bold,
